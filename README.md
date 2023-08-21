@@ -5,11 +5,10 @@ This repository contains all the necessary code and resources to deploy a Stream
 
 ## Project Structure
 **app1.py**: Main Streamlit application file combining sentiment analysis and chatbot functionality.
-- **chatbot.py**: Implementation of the chatbot's functionality.
-- **requirements.txt**: List of Python dependencies needed to run the application.
+**chatbot.py**: Implementation of the chatbot's functionality.
+**requirements.txt**: List of Python dependencies needed to run the application.
 
 ## Getting Started
-
 1. **Clone the Repository**: Clone this repository to your local machine 
 2. **Install Dependencies**: Navigate to the project folder and install dependencies:
    cd amazon-sentiment-chatbot
